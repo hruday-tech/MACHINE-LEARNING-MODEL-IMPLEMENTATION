@@ -2,9 +2,9 @@
 
 company: CODTECH IT SOLUTIONS
 
-NAME: DANDE SRIDHAR
+NAME: CHALLA KALYANI
 
-INTERN ID : CT08DA47
+INTERN ID : CT08DA130
 
 DOMAIN: PYTHON
 
@@ -46,4 +46,11 @@ Evaluated using accuracy, precision, recall, F1-score, and a confusion matrix.
 
 High precision and recall for both spam and ham classes.
 
-OUTPUT
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/e3e2a640-50af-4043-976d-1139786d33d7)
+
+The model correctly identified the majority of spam and ham messages, with very few false positives or false negatives.
+
+📌 Conclusion: The Naive Bayes model performed exceptionally well for classifying SMS messages, making it a suitable and efficient choice for real-time spam detection applications.
+
+
